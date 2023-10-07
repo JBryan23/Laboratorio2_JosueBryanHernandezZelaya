@@ -1,0 +1,15 @@
+C:\Universidad UNAB\Ciclo 04\Programacion II\Laboratorio2 Josue Bryan Hernandez Zelaya\Ejercicio2 JBHZ\Ejercicio2 JBHZ\bin\Debug\net6.0\Ejercicio2 JBHZ.exe
+C:\Universidad UNAB\Ciclo 04\Programacion II\Laboratorio2 Josue Bryan Hernandez Zelaya\Ejercicio2 JBHZ\Ejercicio2 JBHZ\bin\Debug\net6.0\Ejercicio2 JBHZ.deps.json
+C:\Universidad UNAB\Ciclo 04\Programacion II\Laboratorio2 Josue Bryan Hernandez Zelaya\Ejercicio2 JBHZ\Ejercicio2 JBHZ\bin\Debug\net6.0\Ejercicio2 JBHZ.runtimeconfig.json
+C:\Universidad UNAB\Ciclo 04\Programacion II\Laboratorio2 Josue Bryan Hernandez Zelaya\Ejercicio2 JBHZ\Ejercicio2 JBHZ\bin\Debug\net6.0\Ejercicio2 JBHZ.dll
+C:\Universidad UNAB\Ciclo 04\Programacion II\Laboratorio2 Josue Bryan Hernandez Zelaya\Ejercicio2 JBHZ\Ejercicio2 JBHZ\bin\Debug\net6.0\Ejercicio2 JBHZ.pdb
+C:\Universidad UNAB\Ciclo 04\Programacion II\Laboratorio2 Josue Bryan Hernandez Zelaya\Ejercicio2 JBHZ\Ejercicio2 JBHZ\obj\Debug\net6.0\Ejercicio2 JBHZ.csproj.AssemblyReference.cache
+C:\Universidad UNAB\Ciclo 04\Programacion II\Laboratorio2 Josue Bryan Hernandez Zelaya\Ejercicio2 JBHZ\Ejercicio2 JBHZ\obj\Debug\net6.0\Ejercicio2 JBHZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Universidad UNAB\Ciclo 04\Programacion II\Laboratorio2 Josue Bryan Hernandez Zelaya\Ejercicio2 JBHZ\Ejercicio2 JBHZ\obj\Debug\net6.0\Ejercicio2 JBHZ.AssemblyInfoInputs.cache
+C:\Universidad UNAB\Ciclo 04\Programacion II\Laboratorio2 Josue Bryan Hernandez Zelaya\Ejercicio2 JBHZ\Ejercicio2 JBHZ\obj\Debug\net6.0\Ejercicio2 JBHZ.AssemblyInfo.cs
+C:\Universidad UNAB\Ciclo 04\Programacion II\Laboratorio2 Josue Bryan Hernandez Zelaya\Ejercicio2 JBHZ\Ejercicio2 JBHZ\obj\Debug\net6.0\Ejercicio2 JBHZ.csproj.CoreCompileInputs.cache
+C:\Universidad UNAB\Ciclo 04\Programacion II\Laboratorio2 Josue Bryan Hernandez Zelaya\Ejercicio2 JBHZ\Ejercicio2 JBHZ\obj\Debug\net6.0\Ejercicio2 JBHZ.dll
+C:\Universidad UNAB\Ciclo 04\Programacion II\Laboratorio2 Josue Bryan Hernandez Zelaya\Ejercicio2 JBHZ\Ejercicio2 JBHZ\obj\Debug\net6.0\refint\Ejercicio2 JBHZ.dll
+C:\Universidad UNAB\Ciclo 04\Programacion II\Laboratorio2 Josue Bryan Hernandez Zelaya\Ejercicio2 JBHZ\Ejercicio2 JBHZ\obj\Debug\net6.0\Ejercicio2 JBHZ.pdb
+C:\Universidad UNAB\Ciclo 04\Programacion II\Laboratorio2 Josue Bryan Hernandez Zelaya\Ejercicio2 JBHZ\Ejercicio2 JBHZ\obj\Debug\net6.0\Ejercicio2 JBHZ.genruntimeconfig.cache
+C:\Universidad UNAB\Ciclo 04\Programacion II\Laboratorio2 Josue Bryan Hernandez Zelaya\Ejercicio2 JBHZ\Ejercicio2 JBHZ\obj\Debug\net6.0\ref\Ejercicio2 JBHZ.dll
